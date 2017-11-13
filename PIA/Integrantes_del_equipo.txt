@@ -1,0 +1,8 @@
+Laboratorio de base de datos
+-----------------------------------
+integrantes del equipo
+-----------------------------------
+Bryan Caballero Morales 1727359
+Edgar Alonso Loredo Morales 1723067
+Aracely Aguiñaga Valadez 1727880
+Guillermo Alejandro Camacho Martinez 1749496 
